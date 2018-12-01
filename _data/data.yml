@@ -49,28 +49,22 @@ education:
       university: Ohio University
       time: 2013 - 2019 (Expected)
       details: |
-        Describe
-
-          - Bullet point
-          - Bullet point
+          - GPA: 3.55/4.0
 
     - degree: MSc in Electrical Engineering and Computer Science
       university: Ohio University
       time: 2011 - 2013
       details: |
-        Describe
-
-          - Bullet point
-          - Bullet point
+          - GPA: 3.478/4.0
 
     - degree: BSc in Electrical Engineering w/ Computer Engineering Track
       university: Ohio University
       time: 2006 - 2011
       details: |
-        GPA: 3.044/4.0
-        Major: Computer Engineering
-        Minor: Computer Science
-        Minor: Mathematics
+          - GPA: 3.044/4.0
+          - Major: Computer Engineering
+          - Minor: Computer Science
+          - Minor: Mathematics
 
 experiences:
     - role: Postdoctoral Researcher
