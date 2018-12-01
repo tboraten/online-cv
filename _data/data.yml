@@ -180,17 +180,17 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Securing NoCs Against Timing Attacks with Non-Interference Based Adaptive Routing
+        authors: Travis Boraten and Avinash Karanth Kodi
+        conference: 12th IEEE/ACM International Symposium on Network-on-Chips (NoCs 2018), Torino, Italy, Oct 4-5, 2018.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Runtime Fault Tolerant Techniques to Mitigate Soft Errors in Network-on-Chips (NoCs) Architectures
+        authors: Travis Boraten and Avinash Karanth Kodi
+        conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 37, no. 3, pp. 682-695, March 2018.
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Mitigation of Hardware Trojan based Denial-of-Service Attack for Secure NoCs
+        authors: Travis Boraten and Avinash Karanth Kodi
+        conference: Journal of Parallel and Distributed Systems (JPDC), vol. 111, pp. 24-38, January 2018.
 
 skills:
     title: Skills &amp; Proficiency
