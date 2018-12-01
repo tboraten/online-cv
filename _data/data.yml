@@ -15,7 +15,7 @@ sidebar:
     email: tboraten@gmail.com
     phone: 012 345 6789
     website: tboraten.com #do not add http://
-    website: scholar.google.com/citations?user=CgGmb7kAAAAJ&hl=en
+    #website: scholar.google.com/citations?user=CgGmb7kAAAAJ&hl=en
     linkedin: travis-boraten
     github: tboraten
     gitlab:
