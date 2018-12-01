@@ -175,9 +175,8 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Google Scholar User ID: CgGmb7kAAAAJ
+      Best Paper - IEEE Conference on Computer Design (ICCD) - October 2013
 
     papers:
       - title: Securing NoCs Against Timing Attacks with Non-Interference Based Adaptive Routing
@@ -191,6 +190,30 @@ publications:
       - title: Mitigation of Hardware Trojan based Denial-of-Service Attack for Secure NoCs
         authors: Travis Boraten and Avinash Karanth Kodi
         conference: Journal of Parallel and Distributed Systems (JPDC), vol. 111, pp. 24-38, January 2018.
+        
+      - title: Dynamic Error Mitigation in NoCs using Intelligent Prediction Techniques
+        authors: Dominic DiTomaso, Travis Boraten, Avinash Kodi, and Ahmed Louri
+        conference: 49th ACM/IEEE International Symposium on Microarchitecture (MICRO-49), Taipei, Taiwan, October 15-19, 2016. (Acceptance Rate ~ 21%)
+        
+      - title: Secure Model Checkers for Network-on-Chip (NoC) Architecture
+        authors: Travis Boraten and Avinash Karanth Kodi
+        conference: 26th ACM's Great Lakes VLSI Symposium (GLSVLSI'16), Boston, Massachusetts, May 18-20, 2016.
+
+      - title: Mitigation of Denial of Service Attack with Hardware Trojans in NoC Architecture
+        authors: Travis Boraten and Avinash Karanth Kodi
+        conference: 30th IEEE International Parallel and Distributed Processing Symposium (IPDPS'07), Chicago, IL, May 23-27, 2016. (Acceptance Rate ~ 23%)
+        
+      - title: Packet Security with Path Sensitization for NoCs
+        authors: Travis Boraten and Avinash Karanth Kodi
+        conference: Design and Test in Europe (DATE'16), Dresden, Germany, March 14-18, 2016. 
+
+      - title: Runtime Adaptive Scrubbing for Fault-Tolerant Networks-on-Chips (NoCs) Architectures
+        authors: Travis Boraten and Avinash Karanth Kodi
+        conference:  31st IEEE International Conference on Computer Design (ICCD), Asheville, NC, Oct 6-9, 2013. (Acceptance Rate ~ 25%, BEST PAPER)
+
+      - title: Evaluation of Fault-Tolerant Channel Buffers for Improving Reliability in NoCs
+        authors: Dominic DiTomaso, Travis Boraten, Avinash Karanth Kodi and Ahmed Louri
+        conference:  55th IEEE International Midwest Symposium on Circuits & Systems, Boise, Idaho, Aug 5-8, 2012.
 
 skills:
     title: Skills &amp; Proficiency
