@@ -70,55 +70,55 @@ experiences:
     - role: Postdoctoral Researcher
       time: 2017 - Present
       company: Advanced Micro Devices (AMD) Research, Austin
-      details: |
-        Description
+      # details: |
+      #   Description
 
-          - Contributing deliverables for the Path Forward (PF) project.
+      #     - Contributing deliverables for the Path Forward (PF) project.
 
     - role: Intern
       time: 2016 - 2016
       company: Advanced Micro Devices (AMD) Research, Austin
-      details: |
-        Description
+      # details: |
+      #   Description
 
-          - Contributed deliverables for the Design Forward 2 (DF2) project
-          #- Collaborated with Department of Energy (DOE) to use and extend their open source Structural Simulation Toolkit: https://github.com/sstsimulator
+      #     - Contributed deliverables for the Design Forward 2 (DF2) project
+      #     #- Collaborated with Department of Energy (DOE) to use and extend their open source Structural Simulation Toolkit: https://github.com/sstsimulator
 
     - role: Research Assistant
       time: 2012 - 2017
       company: Ohio University, Athens
-      details: |
-        Description
+      # details: |
+      #   Description
 
-          - Test
-          - Test
+      #     - Test
+      #     - Test
           
     - role: Teaching Assistant
       time: 2012 - 2017
       company: Ohio University, Athens
-      details: |
-        Description
+      # details: |
+      #   Description
 
-          - Test
-          - Test
+      #     - Test
+      #     - Test
           
     - role: Intern
       time: 2007 - 2015
       company: Intrust-IT, Blue Ash
-      details: |
-        Description
+      # details: |
+      #   Description
 
-          - Test
-          - Test
+      #     - Test
+      #     - Test
           
     - role: Intern
       time: 2005 - 2007
       company: City of Blue Ash, Blue Ash
-      details: |
-        Description
+      # details: |
+      #   Description
 
-          - Test
-          - Test
+      #     - Test
+      #     - Test
 
 projects:
     title: Projects
